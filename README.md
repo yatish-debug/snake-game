@@ -18,7 +18,7 @@ This is a classic Snake game implemented in Python using the Pygame library.
 
 2. **Navigate to the project directory**:
     ```bash
-    cd your-repo-name
+    cd snake-game
     ```
 
 3. **Install the required dependencies**:
